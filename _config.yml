@@ -1,1 +1,12 @@
-theme: jekyll-theme-leap-day
+title: Modokemdev Blog
+author: Marco André Echeverria
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog to talk about my programming experience and stuff that I like!
+# social links
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
